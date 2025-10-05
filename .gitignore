@@ -1,3 +1,5 @@
+explanation_shap.py
+train_ensemble.py
 *.ipynb_checkpoints
 *.ipynb
 *.csv
@@ -7,4 +9,6 @@ results/*
 data/*
 models/*
 imgs/*
+slurms/*
 *png
+*pdf
